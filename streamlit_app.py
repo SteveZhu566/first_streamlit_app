@@ -80,6 +80,6 @@ if streamlit.button('Add a Fruit to the list'):
     my_cnx.close()
     streamlit.text(back_from_function)
 
-streamlit.write('Thanks for adding ', add_my_fruit)
+#streamlit.write('Thanks for adding ', add_my_fruit)
 
 
